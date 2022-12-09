@@ -1,15 +1,7 @@
 
 import './App.css';
-// function App() {
-// const handleSignup = (e) => {
-//   e.preventDefault();
-//   const name = e.target.username.value;
-//   const password = e.target.password.value;
-//   console.log("username : " + name, "\n", "password :" + password);
 
-// }
 function App() {
-
   const handleSignup = () => {
     window.alert('hi')
   }
