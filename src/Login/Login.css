@@ -1,0 +1,44 @@
+.box {
+    background-color: #ece6e6;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+  }
+  
+  .small-box {
+    background-color: white;
+    text-align: center;
+    width: 250px;
+    height: 250px;
+    border-radius: 20px;
+    padding: 43px 58px;
+    margin: 5rem;
+  }
+  
+  .App-logo {
+    width: 30%;
+  
+  }
+  
+  .input-control {
+    margin: 4px;
+    padding: 6px 34px;
+    border-radius: 16px;
+    border-color: #ece6e6;
+    background-color: #ebeaea;
+  }
+  
+  .input-button {
+    margin: 4px;
+    padding: 3% 43%;
+    border-radius: 15px;
+    color: white;
+    background-color: #10a3e5;
+  
+  }
+  
+  .text {
+    color: blue;
+    text-decoration-line: underline;
+    cursor: pointer;
+  }
